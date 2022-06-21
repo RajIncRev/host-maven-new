@@ -51,6 +51,7 @@
 		        <includes><include>**/*</include></includes>
 		        <repositoryName>host-maven-new</repositoryName> <!-- github repo name -->
 		        <repositoryOwner>RajIncRev</repositoryOwner> <!-- organization or user name  -->
+		        <userName>RajIncRev</userName>
 		    </configuration>
 		    <executions> <!-- run site-maven-plugin's 'site' target as part of the build's normal 'deploy' phase -->
 		      <execution>
