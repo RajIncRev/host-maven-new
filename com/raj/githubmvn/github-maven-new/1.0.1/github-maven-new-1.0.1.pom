@@ -4,7 +4,7 @@
 
   <groupId>com.raj.githubmvn</groupId>
   <artifactId>github-maven-new</artifactId>
-  <version>1.0.2</version>
+  <version>1.0.1</version>
   <packaging>jar</packaging>
 
   <name>github-maven-new</name>
